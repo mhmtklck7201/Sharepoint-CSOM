@@ -1,0 +1,11 @@
+c:\users\mkalcik\documents\visual studio 2015\Projects\SharepointCSOM\SharepointCSOM\bin\Debug\SharepointCSOM.exe.config
+c:\users\mkalcik\documents\visual studio 2015\Projects\SharepointCSOM\SharepointCSOM\bin\Debug\SharepointCSOM.exe
+c:\users\mkalcik\documents\visual studio 2015\Projects\SharepointCSOM\SharepointCSOM\bin\Debug\SharepointCSOM.pdb
+c:\users\mkalcik\documents\visual studio 2015\Projects\SharepointCSOM\SharepointCSOM\bin\Debug\Microsoft.SharePoint.Client.dll
+c:\users\mkalcik\documents\visual studio 2015\Projects\SharepointCSOM\SharepointCSOM\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+c:\users\mkalcik\documents\visual studio 2015\Projects\SharepointCSOM\SharepointCSOM\obj\Debug\SharepointCSOM.csprojResolveAssemblyReference.cache
+c:\users\mkalcik\documents\visual studio 2015\Projects\SharepointCSOM\SharepointCSOM\obj\Debug\SharepointCSOM.Form1.resources
+c:\users\mkalcik\documents\visual studio 2015\Projects\SharepointCSOM\SharepointCSOM\obj\Debug\SharepointCSOM.Properties.Resources.resources
+c:\users\mkalcik\documents\visual studio 2015\Projects\SharepointCSOM\SharepointCSOM\obj\Debug\SharepointCSOM.csproj.GenerateResource.Cache
+c:\users\mkalcik\documents\visual studio 2015\Projects\SharepointCSOM\SharepointCSOM\obj\Debug\SharepointCSOM.exe
+c:\users\mkalcik\documents\visual studio 2015\Projects\SharepointCSOM\SharepointCSOM\obj\Debug\SharepointCSOM.pdb
